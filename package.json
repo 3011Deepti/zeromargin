@@ -1,0 +1,9 @@
+{
+  "name": "zeromargin-standalone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ZeroMargin zero-install edition: Node backend + SQLite + prebuilt React frontend. No npm install needed.",
+  "type": "module",
+  "scripts": { "start": "node server.js", "reset": "node server.js --reset" },
+  "engines": { "node": ">=22.13" }
+}
